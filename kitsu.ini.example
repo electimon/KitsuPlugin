@@ -1,0 +1,7 @@
+[kitsu]
+; Profile slug from https://kitsu.app/users/YOUR-SLUG
+username = "YOUR-SLUG"
+; Alternatively, set a numeric user ID. It takes precedence over username.
+; user_id = "12345"
+status = "current"
+refresh_interval = "180"
