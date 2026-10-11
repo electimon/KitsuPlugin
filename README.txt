@@ -58,3 +58,5 @@ API references:
   https://github.com/hummingbird-me/kitsu-server/blob/master/app/resources/user_resource.rb
 
 Regression checks: python3 testing/kitsu_regression.py
+
+NOTE: THIS PLUGIN IS AI GENERATED, see NOTICE.txt for more info
